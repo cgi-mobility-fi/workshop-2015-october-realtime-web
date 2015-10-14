@@ -1,0 +1,1 @@
+module.exports = (socket, data, callback) -> callback 'pong'
